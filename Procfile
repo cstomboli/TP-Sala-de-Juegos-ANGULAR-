@@ -1,1 +1,1 @@
-web: node src/<TP-Sala-de-Juegos-ANGULAR->.js
+web: node src/<app>.js
