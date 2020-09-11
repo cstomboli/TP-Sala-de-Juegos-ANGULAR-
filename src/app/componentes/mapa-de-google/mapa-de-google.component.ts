@@ -21,7 +21,10 @@ export class MapaDeGoogleComponent implements OnInit {
   }
 
 
-  
+  mapClicked(event:string)
+  {
+    console.log(event);
+  }
 
 
   
