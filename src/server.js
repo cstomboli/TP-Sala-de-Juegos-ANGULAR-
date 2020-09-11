@@ -1,4 +1,4 @@
-constexpress = require('express');
+const express = require('express');
 constapp = express();
 constpath = require('path');
 app.use(express.static(__dirname + '/angularapp'));
