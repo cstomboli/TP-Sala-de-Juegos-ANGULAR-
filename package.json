@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "postinstall": "ng build --output-path tpsaladejuego --aot --prod",
     "ng": "ng",
     "start": "node server.js",
     "build": "ng build",
@@ -54,7 +53,7 @@
     "karma-jasmine": "~1.1.0",
     "karma-jasmine-html-reporter": "^0.2.2",
     "protractor": "~5.1.2",
-    "ts-node": "~8.3.0",
+    "ts-node": "~3.2.0",
     "tslint": "~5.3.2",
     "typescript": "3.1.1",
     "@angular-devkit/build-angular": "~0.8.0"
